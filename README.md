@@ -54,6 +54,7 @@
 ## 대시보드 설계
 - 사용 툴 : Tableau + Tabpy
 <img src="images/tabpy.png" alt="tabpy" width="600">
+
 - 기능
   - 카테고리 필터링 : 아우터, 상의, 하의 등
   - 추천 결과 시각화 : 상품 이미지 및 리뷰 평점 표시
