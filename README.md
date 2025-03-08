@@ -34,6 +34,11 @@
 3. 추천 알고리즘
   - Cosine Similarity를 활용한 유사도 기반 추천 시스템 설계
   - 협업 필터링으로 개인 맞춤형 추천 리스트 제공
+<p align="center">
+  <img src="images/data1.png" alt="데이터" width="45%">
+  <img src="images/data2.png" alt="데이터2" width="45%">
+</p>
+
 
 ## 사용한 기법
 1. 유사도 기반 추천 시스템
@@ -48,6 +53,7 @@
  
 ## 대시보드 설계
 - 사용 툴 : Tableau + Tabpy
+<img src="images/tabpy.png" alt="tabpy" width="600">
 - 기능
   - 카테고리 필터링 : 아우터, 상의, 하의 등
   - 추천 결과 시각화 : 상품 이미지 및 리뷰 평점 표시
@@ -55,6 +61,9 @@
 - 특징
   - 레이더 차트 : 상품 특성 (사이즈, 밝기, 색감) 비교
   - 파이 차트 : 플랫폼별 매출 현황 비교
+<img src="images/view1.png" alt="대시보드" width="600">
+<img src="images/view2.png" alt="대시보드" width="600">
+<img src="images/view3.png" alt="대시보드" width="600">
  
 ## 인사이트
 - 사용자 불만족 요인 : 특정 상품군에 대한 리뷰 분석을 통해 사용자 불만족 요인 파악
