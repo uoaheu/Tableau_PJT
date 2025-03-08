@@ -2,6 +2,9 @@
 사용자 행동 데이터를 기반으로 한 무신사 브랜드 스타일링 맞춤 추천 시스템 개발 프로젝트입니다.
 <img src="images/view.png" alt="대시보드" width="600">
 
+## 시연 영상
+[![Watch the video](https://img.youtube.com/vi/SLzCOBiX6MA/maxresdefault.jpg)](https://youtu.be/SLzCOBiX6MA)
+
 ## 프로젝트 개요
 - **주제 :** 사용자 행동 데이터를 기반으로 한 무신사 브랜드 스타일링 추천 시스템 구축  
 - **기간 :** 2023.08 ~ 2024.01
