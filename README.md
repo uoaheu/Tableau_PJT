@@ -3,6 +3,7 @@
 <img src="images/view.png" alt="대시보드" width="600">
 
 ## 시연 영상
+이미지 클릭 시 유튜브 페이지로 이동합니다.
 [![Watch the video](https://img.youtube.com/vi/SLzCOBiX6MA/maxresdefault.jpg)](https://youtu.be/SLzCOBiX6MA)
 
 ## 프로젝트 개요
